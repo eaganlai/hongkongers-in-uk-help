@@ -1,4 +1,7 @@
-# 情緒輔導
+# Help for Hongkongers in the UK
+羅列所有可以幫到移英港人嘅資源。
+
+## 情緒輔導
 | Name                                                                                                                                               | Description                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Barnardo's 求助熱線](https://helpline.barnardos.org.uk/boloh-helpline/hong-kong-bno-xianggang-bno)                                                | 廣東話/英文熱線︰[0800 151 2605](tel:08001512605)<br/>接聽時間︰星期一至五 10am-8pm; 星期日 10am-3pm<br/>提供**廣東話**及英文情感支援，以及六次免費精神治療。這些治療可以在適合您的時間裡透過電話或線上方式遠端進行。<br/>仲會就住屋選擇、接受教育、福利、安置及再安置等問題提供建議。 |
@@ -8,13 +11,13 @@
 | [Samaritans](https://www.samaritans.org/)                                                                                                          | 英文熱線︰[116 123](tel:116123)<br/>接聽時間︰**廿四小時、年中無休**<br />撒瑪利亞防止自殺會，英國版。閑日下晝打去，大概等半個鐘會有人聽。                                                                                                                                         |
 | [SIGNSS - 情緒關懷術](https://thriveldn.co.uk/communications/toolkits-and-resources/toolkit/thrive-ldn-mental-health-conversation-starter/) | 英文教材，教你點樣同朋友展開話題，及早察覺/發現情緒問題，儘早展開求助。               |
 
-# 英文學習
+## 英文學習
 | Name                                                                | Description                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Groundwork](https://www.groundwork.org.uk/projects/impact-london/) | 提供英文學習、社區融入、就業準備服務。詳情可以睇[呢張傳單](https://www.groundwork.org.uk/wp-content/uploads/2022/04/Traditional-Chinese-Flyer.pdf)。<br/>請按地區聯絡組織︰東倫敦 [Together South](https://www.groundwork.org.uk/projects/together/)；西倫敦 [IMPACT London](https://www.groundwork.org.uk/projects/impact-london/)；Bristol [IMPACT Bristol](https://www.groundwork.org.uk/projects/impact-bristol/) |
 | [FaithAction](https://cafeconnect.faithaction.net/) | 提供英文會話練習、社區融入等服務。詳情請按照地區聯絡負責人。                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-# 搵工 / 創業
+## 搵工 / 創業
 | Name                                                                     | Description                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [FindAGoodBoss.UK](https://FindAGoodBoss.UK)                             | 在英香港人搞嘅求職平台。喺佢哋嘅 [Facebook](https://www.facebook.com/findagoodboss.UK/) [Instagram](https://www.instagram.com/findagoodboss.uk/) 都會見到佢地嘅 Job Ads。<br/>佢哋嘅 [YouTube](https://www.youtube.com/channel/UCXigJ2SOHGsVZTXMCSkYg2Q/videos) 就有啲職業講座。 |
@@ -23,7 +26,7 @@
 | [香港商匯](https://www.hkbusinesshub.net/)                               | 提供創業相關服務，法務諮詢、Networking、籌集資金。                                                                                                                                                                                                                               |
 | [英國香港護士協會](https://www.hknauk.org/)                              | 為計劃前來英國從事護理行業的香港醫護人員提供各類相關支援及資訊。設有 [Facebook](https://www.facebook.com/hknauk/) 及 [Instagram](https://www.instagram.com/hknursingassociationuk/)。                                                                                            |
 
-# 香港人組織
+## 香港人組織
 | Name                                                                                 | Description                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Hackney 華人協會](facebook.com/HackneyChineseCommunityServices)                                                                     | 組織興趣班、英國政策、生活資訊講座。                                                                                                                                                                                     |
@@ -32,7 +35,7 @@
 | [港援](https://www.hkaid.org.uk/)                                                    | 香港難民服務，包括緊急住宿、維生開支、情緒疏導服務。 設有 [Telegram](https://t.me/hkaiduk) 及 [Twitter](https://twitter.com/hkaiduk)。                                                                                   |
 | [英國港僑協會](https://www.hongkongers.org.uk/)                                      | 香港移民服務，提供與就業、情緒、生活等相關諮詢及講座。設有 [Facebook](https://www.facebook.com/HongkongersUK/?ref=page_internal)、[Twitter](https://twitter.com/HongkongersUK) 及 [Telegram](https://t.me/HongkongersUK)。 |
 
-# 工具
+## 工具
 | Name                                                                                                                                        | Description                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals)                                                                                     | 佢地嘅網站上仲寫咗好多地區性組織。設有 [Twitter](https://twitter.com/welcominghk)。 |
