@@ -50,7 +50,8 @@
 | Name                                                    | Description                                                                         |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals) | 佢地嘅網站上仲寫咗好多地區性組織。設有 [Twitter](https://twitter.com/welcominghk)。 |
-| [星月同行](https://www.hkg.one/)                                                        | 一對一移英 mentorship。                                                                                    |
+| [星月同行](https://www.hkg.one/)                        | 一對一移英 mentorship。                                                             |
 | [移英港鄰](https://www.hkerconnect.uk/)                 | 提供眾多移英資訊、在英國舉辦香港文化活動。                                          |
 | [Shopon](https://www.shopon.hk/appdownload)             | 發掘香港人開嘅英國小店，互相幫襯。                                                  |
+| [Strike Calendar](https://www.strikecalendar.co.uk/)                                                        | 自由嘅英國成日都有 Strike，最好留意一下佢哋幾時 Strike。                                                                                    |
 
