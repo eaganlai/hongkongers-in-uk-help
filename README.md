@@ -27,9 +27,9 @@
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Hackney 華人協會](facebook.com/HackneyChineseCommunityServices)                                                                     | 組織興趣班、英國政策、生活資訊講座。                                                                                                                                                                                     |
 | [Islington 華人協會](https://www.welcomehongkongers.com/latest-news)                 | 組織英文班、興趣班、家庭活動。                                                                                                                                                                                           |
-| [鐘底見 倫敦港人連線 Hongkongers in London](https://www.facebook.com/TimeWillSeeUK/) | Facebook Page，分享圍爐活動資訊，亦設有 [Telegram](https://t.me/TimeWillSee)                                                                                                                                             |
+| [鐘底見 倫敦港人連線 Hongkongers in London](https://www.facebook.com/TimeWillSeeUK/) | Facebook Page，分享圍爐活動資訊，亦設有 [Telegram](https://t.me/TimeWillSee)。                                                                                                                                             |
 | [港援](https://www.hkaid.org.uk/)                                                    | 香港難民服務，包括緊急住宿、維生開支、情緒疏導服務。 設有 [Telegram](https://t.me/hkaiduk) 及 [Twitter](https://twitter.com/hkaiduk)。                                                                                   |
-| [英國港僑協會](https://www.hongkongers.org.uk/)                                      | 香港移民服務，提供與就業、情緒、生活等相關諮詢及講座。設有 [Facebook](https://www.facebook.com/HongkongersUK/?ref=page_internal)、[Twitter](https://twitter.com/HongkongersUK) 及 [Telegram](https://t.me/HongkongersUK) |
+| [英國港僑協會](https://www.hongkongers.org.uk/)                                      | 香港移民服務，提供與就業、情緒、生活等相關諮詢及講座。設有 [Facebook](https://www.facebook.com/HongkongersUK/?ref=page_internal)、[Twitter](https://twitter.com/HongkongersUK) 及 [Telegram](https://t.me/HongkongersUK)。 |
 
 # 工具
 | Name                                                                                                                                        | Description                                                             |
@@ -37,4 +37,3 @@
 | [SIGNSS - 情緒關懷術](https://thriveldn.co.uk/communications/toolkits-and-resources/toolkit/thrive-ldn-mental-health-conversation-starter/) | 英文教材，教你點樣同朋友展開話題，及早察覺/發現情緒問題，儘早展開求助。 |
 | [Shopon](https://www.shopon.hk/appdownload)                                                                                                 | 發掘香港人開嘅英國小店，互相幫襯                                        |
 | [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals)                                                                                                                                            | 收集了很多地區性組織，請按地區瀏覽。設有 [Twitter](https://twitter.com/welcominghk)。                                                                       |
-
