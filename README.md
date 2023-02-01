@@ -17,6 +17,11 @@
 | [Groundwork](https://www.groundwork.org.uk/projects/impact-london/) | 提供英文學習、社區融入、就業準備服務。詳情可以睇[呢張傳單](https://www.groundwork.org.uk/wp-content/uploads/2022/04/Traditional-Chinese-Flyer.pdf)。<br/>請按地區聯絡組織︰東倫敦 [Together South](https://www.groundwork.org.uk/projects/together/)；西倫敦 [IMPACT London](https://www.groundwork.org.uk/projects/impact-london/)；Bristol [IMPACT Bristol](https://www.groundwork.org.uk/projects/impact-bristol/) |
 | [FaithAction](https://cafeconnect.faithaction.net/) | 提供英文會話練習、社區融入等服務。詳情請按照地區聯絡負責人。                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
+## 食物
+| Name | Description |
+| ---- | ----------- |
+| [Too Good To Go](https://toogoodtogo.co.uk/en-gb/consumer)     | 希望減少廚餘嘅社企，鼓勵商店用特價售出賣唔晒嘅食物。可以用佢哋個 App 搵到又平又飽肚嘅外賣自取。           |
+
 ## 搵工 / 創業
 | Name                                                                     | Description                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,10 +40,11 @@
 | [港援](https://www.hkaid.org.uk/)                                                    | 香港難民服務，包括緊急住宿、維生開支、情緒疏導服務。 設有 [Telegram](https://t.me/hkaiduk) 及 [Twitter](https://twitter.com/hkaiduk)。                                                                                     |
 | [英國港僑協會](https://www.hongkongers.org.uk/)                                      | 香港移民服務，提供與就業、情緒、生活等相關諮詢及講座。設有 [Facebook](https://www.facebook.com/HongkongersUK/?ref=page_internal)、[Twitter](https://twitter.com/HongkongersUK) 及 [Telegram](https://t.me/HongkongersUK)。 |
 
-## 歧視處理
-| Name | Description |
-| ---- | ----------- |
-| [On Your Side](https://www.onyoursideuk.org/)     | 為對東亞或東南亞人士處理歧視申訴，設有電話熱線、Web Chat 和網上表格。           |
+## 其他事項
+| Name                                          | Description                                                           |
+| --------------------------------------------- | --------------------------------------------------------------------- |
+| [Shelter](https://www.shelter.org.uk/)                                              | 解決租屋疑難，解答租務細節，解釋租客和房東責任。                                                                      |
+| [On Your Side](https://www.onyoursideuk.org/) | 為對東亞或東南亞人士處理歧視申訴，設有電話熱線、Web Chat 和網上表格。 |
 
 ## 工具
 | Name                                                                                                                                        | Description                                                                           |
