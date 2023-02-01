@@ -35,6 +35,6 @@
 # 工具
 | Name                                                                                                                                        | Description                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals)                                                                                     | 收集了很多地區性組織，請按地區瀏覽。設有 [Twitter](https://twitter.com/welcominghk)。 |
+| [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals)                                                                                     | 佢地嘅網站上仲寫咗好多地區性組織。設有 [Twitter](https://twitter.com/welcominghk)。 |
 | [Shopon](https://www.shopon.hk/appdownload)                                                                                                 | 發掘香港人開嘅英國小店，互相幫襯                                                      |
 
