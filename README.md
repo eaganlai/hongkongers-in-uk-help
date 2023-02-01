@@ -1,5 +1,5 @@
 # Help for Hongkongers in the UK
-羅列所有可以幫到移英港人嘅資源。
+羅列可以幫到移英港人嘅資源。
 
 ## 情緒輔導
 | Name                                                                                                                                               | Description                                                                                                                                                                                                                                                                        |
@@ -27,6 +27,8 @@
 | [英國香港護士協會](https://www.hknauk.org/)                              | 為計劃前來英國從事護理行業的香港醫護人員提供各類相關支援及資訊。設有 [Facebook](https://www.facebook.com/hknauk/) 及 [Instagram](https://www.instagram.com/hknursingassociationuk/)。                                                                                            |
 
 ## 香港人組織
+
+### 全國性
 | Name                                                                                 | Description                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Hackney 華人協會](facebook.com/HackneyChineseCommunityServices)                                                                     | 組織興趣班、英國政策、生活資訊講座。                                                                                                                                                                                     |
@@ -34,6 +36,11 @@
 | [鐘底見 倫敦港人連線 Hongkongers in London](https://www.facebook.com/TimeWillSeeUK/) | Facebook Page，分享圍爐活動資訊，亦設有 [Telegram](https://t.me/TimeWillSee)。                                                                                                                                             |
 | [港援](https://www.hkaid.org.uk/)                                                    | 香港難民服務，包括緊急住宿、維生開支、情緒疏導服務。 設有 [Telegram](https://t.me/hkaiduk) 及 [Twitter](https://twitter.com/hkaiduk)。                                                                                   |
 | [英國港僑協會](https://www.hongkongers.org.uk/)                                      | 香港移民服務，提供與就業、情緒、生活等相關諮詢及講座。設有 [Facebook](https://www.facebook.com/HongkongersUK/?ref=page_internal)、[Twitter](https://twitter.com/HongkongersUK) 及 [Telegram](https://t.me/HongkongersUK)。 |
+
+## 歧視處理
+| Name | Description |
+| ---- | ----------- |
+| [On Your Side](https://www.onyoursideuk.org/)     | 為對東亞或東南亞人士處理歧視申訴，設有電話熱線、Web Chat 和網上表格。           |
 
 ## 工具
 | Name                                                                                                                                        | Description                                                                           |
