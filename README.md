@@ -6,6 +6,7 @@
 | [National Suicide Prevention Helpline UK](https://www.spuk.org.uk/national-suicide-prevention-helpline-uk/ "National Suicide Prevention Helpline") | 英文熱線︰[0800 689 5652](tel:08006895652) / [0800 689 0880](tel:08006890880)<br/>接聽時間︰每日 6pm - 3:30am<br/>如果有自殺嘅念頭，可以打呢個電話，佢地一定會理解你。                                                                                                             |
 | [SANEline](https://www.sane.org.uk/how-we-help/emotional-support/saneline-services)                                                                | 英文熱線︰[0300 304 7000](tel:+44-03003047000)<br/>接聽時間︰每日 4pm - 10pm<br/>自己或身邊朋友有需要，都可以打。                                                                                                                                                                  |
 | [Samaritans](https://www.samaritans.org/)                                                                                                          | 英文熱線︰[116 123](tel:116123)<br/>接聽時間︰**廿四小時、年中無休**<br />撒瑪利亞防止自殺會，英國版。閑日下晝打去，大概等半個鐘會有人聽。                                                                                                                                         |
+| [SIGNSS - 情緒關懷術](https://thriveldn.co.uk/communications/toolkits-and-resources/toolkit/thrive-ldn-mental-health-conversation-starter/) | 英文教材，教你點樣同朋友展開話題，及早察覺/發現情緒問題，儘早展開求助。               |
 
 # 英文學習
 | Name                                                                | Description                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -32,9 +33,8 @@
 | [英國港僑協會](https://www.hongkongers.org.uk/)                                      | 香港移民服務，提供與就業、情緒、生活等相關諮詢及講座。設有 [Facebook](https://www.facebook.com/HongkongersUK/?ref=page_internal)、[Twitter](https://twitter.com/HongkongersUK) 及 [Telegram](https://t.me/HongkongersUK)。 |
 
 # 工具
-| Name                                                                                                                                        | Description                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [SIGNSS - 情緒關懷術](https://thriveldn.co.uk/communications/toolkits-and-resources/toolkit/thrive-ldn-mental-health-conversation-starter/) | 英文教材，教你點樣同朋友展開話題，及早察覺/發現情緒問題，儘早展開求助。 |
-| [Shopon](https://www.shopon.hk/appdownload)                                                                                                 | 發掘香港人開嘅英國小店，互相幫襯                                        |
-| [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals)                                                                                                                                            | 收集了很多地區性組織，請按地區瀏覽。設有 [Twitter](https://twitter.com/welcominghk)。                                                                       |
+| Name                                                                                                                                        | Description                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [歡迎香港委員會](https://www.welcomehk.org/hk-arrivals)                                                                                     | 收集了很多地區性組織，請按地區瀏覽。設有 [Twitter](https://twitter.com/welcominghk)。 |
+| [Shopon](https://www.shopon.hk/appdownload)                                                                                                 | 發掘香港人開嘅英國小店，互相幫襯                                                      |
 
